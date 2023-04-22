@@ -1,13 +1,13 @@
-**#Task 1**
+**Task 1**
 
 <br>
-**##Subtask 1**
+**Subtask 1**
 <br>
 
 9 punktów
 
 <br>
-**##Subtask 3**
+**Subtask 3**
 <br>
 
 Podzadanie 1: Dlaczego zdecydowałem się wziąć udział w wyzwaniu Dare IT Challenge?
