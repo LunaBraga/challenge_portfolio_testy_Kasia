@@ -77,5 +77,8 @@ https://docs.google.com/spreadsheets/d/1ELBP9rNnTm59MRnuaEz1fWlDOYk_CHX0q-jtIoPf
 ## Subtask 2
 https://docs.google.com/spreadsheets/d/1ANV5zP_O_qmoJZduYuCcYkNuHkAT3BfbavrCbhj2HyU/edit?usp=sharing
 
+## Subtask 3
+We write a test case to check whether the created software meets the expectations and is in accordance with the specification created before the project was created. Thanks to written tests, all parties working on projects have clear and understandable access to the tests carried out.
+
 ## Subtask 4 
 https://docs.google.com/spreadsheets/d/1pw7PkF2H4ci8_Rq-hMT1bx6scB6VjxSEQzWoRsbfCRE/edit?usp=share_link
