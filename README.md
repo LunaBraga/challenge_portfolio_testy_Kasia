@@ -71,6 +71,7 @@ Aplikacja umożliwia przeglądanie wskaźników, umiejętności, pozycji zawodni
 * brak kontaktu lub formularza kontaktowego w sprawie problemów na stronie itp. 
 * brak daty na dole strony
 
+
 # Task 2
 
 ## Subtask 1
@@ -84,6 +85,8 @@ We write a test case to check whether the created software meets the expectation
 
 ## Subtask 4 
 https://docs.google.com/spreadsheets/d/1pw7PkF2H4ci8_Rq-hMT1bx6scB6VjxSEQzWoRsbfCRE/edit?usp=share_link
+
+
 
 # Task 3
 
