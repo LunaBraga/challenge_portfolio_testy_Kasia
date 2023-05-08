@@ -42,7 +42,7 @@ Aplikacja umożliwia przeglądanie wskaźników, umiejętności, pozycji zawodni
 
 **Interfejs aplikacji**
 
-1. Podba mi się w interfejsie:
+1. Podoba mi się w interfejsie:
 
 * czytelny dashborad
 * czytelna zmiana języka, logowanie/wylogowanie
@@ -97,3 +97,5 @@ https://docs.google.com/spreadsheets/d/141-j92eZIxft7-ZMGKViFarHWHmiG-Q5JXQkbier
 
 ## Subtask 3
 https://docs.google.com/spreadsheets/d/1leycNxurzHtAx0QkXNr42vzx7iCNYKKM0ulLFgxTBqA/edit?usp=share_link 
+
+
