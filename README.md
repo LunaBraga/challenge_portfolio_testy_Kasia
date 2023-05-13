@@ -1,9 +1,8 @@
-# Task 1
+# Task 1 ⚜️
 
-## Subtask 1
+## Subtask 1 
 
 9 punktów
-
 
 
 ## Subtask 3
@@ -72,40 +71,45 @@ Aplikacja umożliwia przeglądanie wskaźników, umiejętności, pozycji zawodni
 * brak daty na dole strony
 
 
-# Task 2
+< href= "https://i.gifer.com/Q4v.gif">Link</a>
+
+
+# Task 2 ⚜️
+
 
 ## Subtask 1
-https://docs.google.com/spreadsheets/d/1ELBP9rNnTm59MRnuaEz1fWlDOYk_CHX0q-jtIoPfW0I/edit?usp=sharing
+< href= "https://docs.google.com/spreadsheets/d/1ELBP9rNnTm59MRnuaEz1fWlDOYk_CHX0q-jtIoPfW0I/edit?usp=sharing">Link</a>
 
 ## Subtask 2
-https://docs.google.com/spreadsheets/d/1ANV5zP_O_qmoJZduYuCcYkNuHkAT3BfbavrCbhj2HyU/edit?usp=sharing
+< href= "https://docs.google.com/spreadsheets/d/1ANV5zP_O_qmoJZduYuCcYkNuHkAT3BfbavrCbhj2HyU/edit?usp=sharing">Link</a>
 
 ## Subtask 3
 We write a test case to check whether the created software meets the expectations and is in accordance with the specification created before the project was created. Thanks to written tests, all parties working on projects have clear and understandable access to the tests carried out.
 
 ## Subtask 4 
-https://docs.google.com/spreadsheets/d/1pw7PkF2H4ci8_Rq-hMT1bx6scB6VjxSEQzWoRsbfCRE/edit?usp=share_link
+< href= "https://docs.google.com/spreadsheets/d/1pw7PkF2H4ci8_Rq-hMT1bx6scB6VjxSEQzWoRsbfCRE/edit?usp=share_link">Link</a>
 
 
 
-# Task 3
+# Task 3 ⚜️
 
 
 ## Subtask 2
-https://docs.google.com/spreadsheets/d/141-j92eZIxft7-ZMGKViFarHWHmiG-Q5JXQkbierDYA/edit?usp=share_link
+< href="https://docs.google.com/spreadsheets/d/141-j92eZIxft7-ZMGKViFarHWHmiG-Q5JXQkbierDYA/edit?usp=share_link">Link</a>
 
 
 ## Subtask 3
-https://docs.google.com/spreadsheets/d/1leycNxurzHtAx0QkXNr42vzx7iCNYKKM0ulLFgxTBqA/edit?usp=share_link 
+< href="https://docs.google.com/spreadsheets/d/1leycNxurzHtAx0QkXNr42vzx7iCNYKKM0ulLFgxTBqA/edit?usp=share_link">Link</a>
 
 
-# Task 4
+# Task 4 ⚜️
 
-## Subtask 1-2
+## Subtask 1-2 📱 📲
 
 <a href= "https://docs.google.com/spreadsheets/d/1HEYhoLYkjE1Ri9lwSTTlIoKRh1VQrKGJn3fanKMVPzk/edit?usp=share_link">Link to tests from Subtask 1-2</a>
 
-## Subtask 3
+## Subtask 3 💻
+
 
 1. This mobile application to buying different kinds of items rom people in Poland. 
 2. The final users of the application are people listing items for sale in the application and people buying items.
