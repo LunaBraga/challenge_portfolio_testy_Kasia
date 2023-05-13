@@ -99,3 +99,14 @@ https://docs.google.com/spreadsheets/d/141-j92eZIxft7-ZMGKViFarHWHmiG-Q5JXQkbier
 https://docs.google.com/spreadsheets/d/1leycNxurzHtAx0QkXNr42vzx7iCNYKKM0ulLFgxTBqA/edit?usp=share_link 
 
 
+# Task 4
+
+## Subtask 1-2
+
+<a herf= "https://docs.google.com/spreadsheets/d/1HEYhoLYkjE1Ri9lwSTTlIoKRh1VQrKGJn3fanKMVPzk/edit?usp=share_link">Link to tests from Subtask 1-2</a>
+
+## Subtask 3
+
+1. This mobile application to buying different kinds of items rom people in Poland. 
+2. The final users of the application are people listing items for sale in the application and people buying items.
+3. 
