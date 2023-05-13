@@ -92,11 +92,11 @@ We write a test case to check whether the created software meets the expectation
 # Task 3 ⚜️
 
 
-## Subtask 2
+## Subtask 2 💻🕵️‍♀️ 
 <a href="https://docs.google.com/spreadsheets/d/141-j92eZIxft7-ZMGKViFarHWHmiG-Q5JXQkbierDYA/edit?usp=share_link">Link</a>
 
 
-## Subtask 3
+## Subtask 3 👩‍💻
 <a href="https://docs.google.com/spreadsheets/d/1leycNxurzHtAx0QkXNr42vzx7iCNYKKM0ulLFgxTBqA/edit?usp=share_link">Link</a>
 
 
@@ -106,14 +106,14 @@ We write a test case to check whether the created software meets the expectation
 
 <a href= "https://docs.google.com/spreadsheets/d/1HEYhoLYkjE1Ri9lwSTTlIoKRh1VQrKGJn3fanKMVPzk/edit?usp=share_link">Link to tests from Subtask 1-2</a>
 
-## Subtask 3 💻
+## Subtask 3 💻🕵️‍♀️ 
 
 
 1. This mobile application to buying different kinds of items rom people in Poland. 
 2. The final users of the application are people listing items for sale in the application and people buying items.
-3. The OLX application looks as if it was not designed specifically for the mobile version. 💻 In my opinion, it was reworked from the desktop project. Items in an app sometimes don't fit in containers. 🏮 The header does not have an upper bar with visible OLX colors. 🚩After entering the application, one element thanks to which I know that it is an application of this store is the logo in OLX in categories. The categories are not added alphabetically and it is difficult to know what the key to adding them in the application is. 📁 The application is not responsive and has not been adapted to all mobile devices. The application is about shopping and a Help button clearly visible on the page would be useful. Currently, it is deeper hidden in the Account and you have to scroll to find it. 🐕‍🦺 There is also no contact form or phone number for the helpdesk.📱 The application has many elements, but some of them are hard to find at first glance. A search engine for application elements would be helpful. There is only a product search engine on the website. 🔍 The app also has an eco mode to save battery. 🔋 The application does not have two-factor verification 🔑 and scalable text. To sum up, the application should be designed for mobile devices. Currently, unfortunately, it is not user friendly.
+3. The OLX application looks as if it was not designed specifically for the mobile version. 💻 In my opinion, it was reworked from the desktop project. Items in an app sometimes don't fit in containers. 🏮 The header does not have an upper bar with visible OLX colors. 🚩After entering the application, one element thanks to which I know that it is an application of this store is the logo in OLX in categories. The categories are not added alphabetically and it is difficult to know what the key to adding them in the application is. 📁 The application is not responsive and has not been adapted to all mobile devices. The application is about shopping and a Help button clearly visible on the page would be useful. Currently, it is deeper hidden in the Account and you have to scroll to find it. 🐕‍🦺 There is also no contact form or phone number for the helpdesk.📱 The application has many elements, but some of them are hard to find at first glance. A search engine for application elements would be helpful. There is only element search engine on the website. 🔍 The app also has an eco mode to save battery. 🔋 The application does not have two-factor verification 🔑 and scalable text. To sum up, the application should be designed for mobile devices. Currently, unfortunately, it is not user friendly.
 
 ![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/74a2fb0c-64b0-4947-88e5-3af5c12fbbe7)
 
-4. 
+4. 🪐The application could include a element search engine on the website. 🔍 The application also could has an eco mode to save battery. 🔋 Important thing could be also two-factor verification. They sould add form for help center or customer service. 🚀
 5. 💻 Native apps need to be tested on separate Android and iOS operating systems. Native apps need to be reposive and that needs to be tested as well. More people are using mobile devices these days, and native and web apps need to be tested just as thoroughly. In mobile applications, it is also worth testing on different devices because the design may look completely different on different phones. It is important to check the number of elements in the native application and their visibility. On a small screen, cells may be hard to see or you have to scroll to find them. 📱 
