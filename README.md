@@ -71,13 +71,10 @@ Aplikacja umożliwia przeglądanie wskaźników, umiejętności, pozycji zawodni
 * brak daty na dole strony
 
 
-< href= "https://i.gifer.com/Q4v.gif">Link</a>
-
-
 # Task 2 ⚜️
 
 
-## Subtask 1
+## Subtask 1 💻
 < href= "https://docs.google.com/spreadsheets/d/1ELBP9rNnTm59MRnuaEz1fWlDOYk_CHX0q-jtIoPfW0I/edit?usp=sharing">Link</a>
 
 ## Subtask 2
@@ -113,4 +110,4 @@ We write a test case to check whether the created software meets the expectation
 
 1. This mobile application to buying different kinds of items rom people in Poland. 
 2. The final users of the application are people listing items for sale in the application and people buying items.
-3. 
+3. The OLX application looks as if it was not designed specifically for the mobile version. 💻 In my opinion, it was reworked from the desktop project. Items in an app sometimes don't fit in containers. The header does not have an upper bar with visible OLX colors. After entering the application, one element thanks to which I know that it is an application of this store is the logo in OLX in categories. ![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/a2136162-a1b7-4e8d-b139-44fb65233e94). The categories are not added alphabetically and it is difficult to know what the key to adding them in the application is. 
