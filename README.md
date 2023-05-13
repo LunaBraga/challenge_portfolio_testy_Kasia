@@ -70,21 +70,22 @@ Aplikacja umożliwia przeglądanie wskaźników, umiejętności, pozycji zawodni
 * brak kontaktu lub formularza kontaktowego w sprawie problemów na stronie itp. 
 * brak daty na dole strony
 
+https://i.gifer.com/Q4v.gif
 
 # Task 2 ⚜️
 
 
 ## Subtask 1 💻
-< href= "https://docs.google.com/spreadsheets/d/1ELBP9rNnTm59MRnuaEz1fWlDOYk_CHX0q-jtIoPfW0I/edit?usp=sharing">Link</a>
+<a href= "https://docs.google.com/spreadsheets/d/1ELBP9rNnTm59MRnuaEz1fWlDOYk_CHX0q-jtIoPfW0I/edit?usp=sharing">Link</a>
 
 ## Subtask 2
-< href= "https://docs.google.com/spreadsheets/d/1ANV5zP_O_qmoJZduYuCcYkNuHkAT3BfbavrCbhj2HyU/edit?usp=sharing">Link</a>
+<a href= "https://docs.google.com/spreadsheets/d/1ANV5zP_O_qmoJZduYuCcYkNuHkAT3BfbavrCbhj2HyU/edit?usp=sharing">Link</a>
 
 ## Subtask 3
 We write a test case to check whether the created software meets the expectations and is in accordance with the specification created before the project was created. Thanks to written tests, all parties working on projects have clear and understandable access to the tests carried out.
 
 ## Subtask 4 
-< href= "https://docs.google.com/spreadsheets/d/1pw7PkF2H4ci8_Rq-hMT1bx6scB6VjxSEQzWoRsbfCRE/edit?usp=share_link">Link</a>
+<a href= "https://docs.google.com/spreadsheets/d/1pw7PkF2H4ci8_Rq-hMT1bx6scB6VjxSEQzWoRsbfCRE/edit?usp=share_link">Link</a>
 
 
 
@@ -92,11 +93,11 @@ We write a test case to check whether the created software meets the expectation
 
 
 ## Subtask 2
-< href="https://docs.google.com/spreadsheets/d/141-j92eZIxft7-ZMGKViFarHWHmiG-Q5JXQkbierDYA/edit?usp=share_link">Link</a>
+<a href="https://docs.google.com/spreadsheets/d/141-j92eZIxft7-ZMGKViFarHWHmiG-Q5JXQkbierDYA/edit?usp=share_link">Link</a>
 
 
 ## Subtask 3
-< href="https://docs.google.com/spreadsheets/d/1leycNxurzHtAx0QkXNr42vzx7iCNYKKM0ulLFgxTBqA/edit?usp=share_link">Link</a>
+<a href="https://docs.google.com/spreadsheets/d/1leycNxurzHtAx0QkXNr42vzx7iCNYKKM0ulLFgxTBqA/edit?usp=share_link">Link</a>
 
 
 # Task 4 ⚜️
@@ -110,6 +111,10 @@ We write a test case to check whether the created software meets the expectation
 
 1. This mobile application to buying different kinds of items rom people in Poland. 
 2. The final users of the application are people listing items for sale in the application and people buying items.
-3. The OLX application looks as if it was not designed specifically for the mobile version. 💻 In my opinion, it was reworked from the desktop project. Items in an app sometimes don't fit in containers. The header does not have an upper bar with visible OLX colors. After entering the application, one element thanks to which I know that it is an application of this store is the logo in OLX in categories. <img src=![image (https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/a2136162-a1b7-4e8d-b139-44fb65233e94)" style="width:100px;height:200px;">
-4. 
-5. . The categories are not added alphabetically and it is difficult to know what the key to adding them in the application is. 
+3. The OLX application looks as if it was not designed specifically for the mobile version. 💻 In my opinion, it was reworked from the desktop project. Items in an app sometimes don't fit in containers. 🏮 The header does not have an upper bar with visible OLX colors. 🚩After entering the application, one element thanks to which I know that it is an application of this store is the logo in OLX in categories. The application is not responsive and has not been adapted to all mobile devices. The application is about shopping and a Help button clearly visible on the page would be useful. Currently, it is deeper hidden in the Account and you have to scroll to find it. There is also no contact form or phone number for the helpdesk.📱
+
+![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/74a2fb0c-64b0-4947-88e5-3af5c12fbbe7)
+
+
+5. 
+6. . The categories are not added alphabetically and it is difficult to know what the key to adding them in the application is. 
