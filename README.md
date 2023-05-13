@@ -103,7 +103,7 @@ https://docs.google.com/spreadsheets/d/1leycNxurzHtAx0QkXNr42vzx7iCNYKKM0ulLFgxT
 
 ## Subtask 1-2
 
-<a herf= "https://docs.google.com/spreadsheets/d/1HEYhoLYkjE1Ri9lwSTTlIoKRh1VQrKGJn3fanKMVPzk/edit?usp=share_link">Link to tests from Subtask 1-2</a>
+<a href= "https://docs.google.com/spreadsheets/d/1HEYhoLYkjE1Ri9lwSTTlIoKRh1VQrKGJn3fanKMVPzk/edit?usp=share_link">Link to tests from Subtask 1-2</a>
 
 ## Subtask 3
 
