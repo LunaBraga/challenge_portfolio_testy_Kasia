@@ -1,75 +1,77 @@
 # Task 1 ⚜️ 
 
-## Subtask 1 
+## Subtask 1 ✨🚀
 
-9 punktów
+9 points 
 
 
 ## Subtask 3
 
-**Podzadanie 1: Dlaczego zdecydowałem się wziąć udział w wyzwaniu Dare IT Challenge?**
+**Subtask 1: Why did I decide to take part in the Dare IT Challenge? **👩‍💻🚀
 
+EN: My career path so far has not allowed me to develop my skills and knowledge of new technologies. That is why I decided to take part in the challenge and change the industry and profession.
 
-Moja dotychczasowa ścieżka kariery nie pozwalała mi na rozwijanie moich umiejętności i wiedzy dotyczącej nowych technologii. Dlatego zdecydowałam się podjąć wyzwanie i zmienić branżę oraz zawód.
+I decided to take part in the course because I would like to learn new issues and learn about development opportunities. I really care about learning the skills and tools useful in the new profession.
+
+PL: Moja dotychczasowa ścieżka kariery nie pozwalała mi na rozwijanie moich umiejętności i wiedzy dotyczącej nowych technologii. Dlatego zdecydowałam się podjąć wyzwanie i zmienić branżę oraz zawód.
 
 
 Decyzje o wzięciu udziału w kursie podjełam ponieważ chiałabym uczyć się nowych zagadnień i poznać możliwości rozwoju. Bardzo zależy mi na nauce przydanych w nowym zwodzie umiejętności oraz narzędzi.
 
-Kasia
 
-## Subtask 4
+## Subtask 4 🚀✨
 
-
-Aplikacja umożliwia przeglądanie wskaźników, umiejętności, pozycji zawodników i raportów dla graczy. 
-
-**Funkcjonalności aplikacji:**
-
-* Zalogowanie się hasłem i mailem
-* Formularz Dodaj gracza - czyszczenie tekstu oraz potwierdzenie wpisanych danych
-* Dodawanie języka do formularza
-* Dodawanie linków do you tube
-* Formularz usuwanie tekstów z formularza
-* Raportowanie - edycja
-* Zmiana języka z PL na EN
-* Zliczanie ilości graczy, meczy, raportów, akcji
-* Filtrowanie - gracze
-* Pokazywanie w kolumnach wybranych elementów - gracze
-* Drukowanie - gracze
-* Pobieranie CSV
-* Wyszukiwanie contentu na stronie
+The application allows to view metrics, skills, player positions and player reports. 
 
 
-**Interfejs aplikacji**
+**Application functionalities:**🚀💻📁✨
 
-1. Podoba mi się w interfejsie:
-
-* czytelny dashborad
-* czytelna zmiana języka, logowanie/wylogowanie
-
-2. Nie podoba mi się w interfejsie:
-
-* użycie zbyt wielu wielkości fontów
-* niektóre kolory sa zbyt podobne jak np. ilość meczy i ilość raportów
-* na stronie w pubkcie centralnym jest chaos i trudno odszukać niketóre elementy jak. raporty, mecze itp. 
-* elementy ilosć graczy itp. są niekliklane - nigdzie nie przekierowują
-* logo jest umieszczone w złym miejscu 
-* add player i gracze są osobno - formularz powinien być na tej samej pdostronie z dodanymi graczami 
-* brak headera z nazwą, grafiką, body copy
-* na wersji mobilnej na górnej belce jest tylko burger menu - nie ma ikonek hasła nic. Burger menu mogłoby byc dodane po prawej stronie. 
-* w wersji mobilnej niektóre kafelki takie jak ilosc graczy itp. również nie sa klikalne
-* linki pomocnicze - na środku oraz co oznaczają? Czy chodzi o skróty? Powinny byc albo w menu lub inaczej zaprojetowane na stronie + powinno byc takich linków więcej  np. do formularza meczy i raportów. 
+* Login with password and email
+* Add player form - clearing the text and confirming the entered data
+* Adding a language to the form
+* Adding links to you tube
+* Form removing texts from the form
+* Reporting - editing
+* Changing the language from PL to EN
+* Counting the number of players, matches, reports, actions
+* Filtering - players
+* Showing selected items in columns - players
+* Printing - players
+* CSV download
+* Searching for content on the site
 
 
-**Aplikacja nie jest intuicyjna. Mam probem z wyszukaniem:**
+**Application interface**
 
-* meczy oraz formularza z dodaniem meczu - moge to zrobić przez ostatnio dodane w Aktywnościach
-* raportów - tutaj też nie widzę formularza do dodania raportów po prostu jest add raport a gdy w niego klikam pojawi się formularz meczu ;) 
-* w dashboardzie w menu brakuje dodanych linkowań do raportów i meczy
-* dev team contact - link do slack 
-* brak danych adresowych właściciela i stopki 
-* brak kontaktu lub formularza kontaktowego w sprawie problemów na stronie itp. 
-* brak daty na dole strony
+1. What I like about the interface: 👍💻
 
+* readable dashboard
+* clear language change, login/logout
+
+
+2. I don't like about the interface: ☹📁💻
+
+* using too many font sizes
+* some colors are too similar like number of matches and number of reports
+* on the page in the central pub there is chaos and it is difficult to find some elements like. reports, matches, etc.
+* items number of players, etc. are not clickable - they do not redirect anywhere
+* the logo is placed in the wrong place
+* add player and players are separate - the form should be on the same page with added players
+* no header with name, graphics, body copy
+* on the mobile version on the top bar there is only a burger menu - there are no password icons nothing. A burger menu could be added to the right.
+* in the mobile version, some tiles such as the number of players, etc. are also not clickable
+* help links - in the middle and what do they mean? Is it shortcuts? They should be either in the menu or differently designed on the website + there should be more such links, e.g. to the match form and reports.
+
+
+**The application is not intuitive. I'm having trouble finding:** ☹💻
+
+* matches and a form with adding a match - I can do it by recently added in Activities
+* reports - I don't see a form to add reports here either, there is simply add report and when I click it, the match form will appear ;)
+* added links to reports and matches are missing in the menu in the dashboard
+* dev team contact - link to slack
+* no address details of the owner and footer
+* no contact or contact form for problems on the website, etc.
+* no date at the bottom of the page
 
 
 # Task 2 ⚜️
