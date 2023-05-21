@@ -119,3 +119,14 @@ We write a test case to check whether the created software meets the expectation
 
 4. 🪐The application could include a element search engine on the website. 🔍 The application also could has an eco mode to save battery. 🔋 Important thing could be also two-factor verification. They sould add form for help center or customer service. 🚀
 5. 💻 Native apps need to be tested on separate Android and iOS operating systems. Native apps need to be reposive and that needs to be tested as well. More people are using mobile devices these days, and native and web apps need to be tested just as thoroughly. In mobile applications, it is also worth testing on different devices because the design may look completely different on different phones. It is important to check the number of elements in the native application and their visibility. On a small screen, cells may be hard to see or you have to scroll to find them. 📱 
+
+# Task 5 ⚜️
+
+## Subtask 🐱‍💻🚀
+
+1. Display the actors table in alphabetical order by sorting by the surname column. 🎭
+
+select * from actors order by surname asc;
+
+![1](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/9ec07537-faef-4597-83e1-9f4ef7bb3d74)
+
