@@ -130,3 +130,6 @@ select * from actors order by surname asc;
 
 ![1](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/9ec07537-faef-4597-83e1-9f4ef7bb3d74)
 
+2. View a video that was made in 2019. 🎬
+
+![2](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/b4b5be86-686e-487c-aaae-31e80ab2779e)
