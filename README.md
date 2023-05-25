@@ -122,6 +122,12 @@ We write a test case to check whether the created software meets the expectation
 
 # Task 5 ⚜️
 
+## Subtask 1
+
+List of operators/queries I learned.
+
+
+
 ## Subtask 3 🐱‍💻🚀
 
 ### 1. Display the actors table in alphabetical order by sorting by the surname column. 🎭
