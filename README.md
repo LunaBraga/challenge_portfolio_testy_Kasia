@@ -241,6 +241,8 @@ WHERE customer_id= 4;
 ### 20. Where's our HONIA!? Add a new tuple to the customers table, where customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com and pseudonym = Hoa
 
 ## Subtask 2
+In quiz 7 answers from 15 were correct. 
 
+![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/a57eecde-0d0b-47ea-9ffa-2a286443f5eb)
 
 
