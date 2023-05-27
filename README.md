@@ -138,55 +138,64 @@ select * from actors order by surname asc;
 
 ### 2. View a video that was made in 2019. 🎬
 
-select * from movies where year_of_production = 2019;
+select * from movies 
+where year_of_production = 2019;
 
 ![2](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/b4b5be86-686e-487c-aaae-31e80ab2779e)
 
 ### 3. View all movies made between 1900 and 1999. 📽
 
-select * from movies where year_of_production between 1900 AND 1999;
+select * from movies 
+where year_of_production between 1900 AND 1999;
 
 ![3](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/e9a9b7af-24d3-48b5-9828-594d8a4a68b5)
 
 ### 4. Display ONLY the title and price of movies that cost less than $7 💰
 
-select title, price from movies where price <= 7;
+select title, price from movies 
+where price <= 7;
 
 ![4](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/d2f221de-10a7-4f2c-a562-6eb5e4ac650a)
 
 ### 5. Use the logical AND operator to display actors with actor_ids between 4-7 (4 and 7 should display). DO NOT USE BETWEEN operator. 👩‍🎤👨‍🎤
 
-SELECT * FROM `actors` WHERE actor_id > 3 and actor_id < 8;
+SELECT * FROM `actors` 
+WHERE actor_id > 3 and actor_id < 8;
 
 ![5](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/7d97e7b5-552e-4897-b2b6-297207a480a9)
 
 ### 6. Display customers with id 2,4,6 use logical condition for this. 🛒
 
-SELECT * FROM customers WHERE customer_id in (2,4,6);
+SELECT * FROM customers 
+WHERE customer_id in (2,4,6);
 
 ![6](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/e4502831-4f1f-47b0-9577-303a957fcd48)
 
 ### 7. Display clients with id 1,3,5 use IN operator for this. 🔢
 
-SELECT * FROM customers WHERE customer_id in (1,3,5);
+SELECT * FROM customers 
+WHERE customer_id in (1,3,5);
 
 ![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/e775c05b-abf6-4277-97b1-4fa2c6ae85c2)
 
 ### 8. Display the details of all persons in the 'actors' table whose name starts with 'An'. ✨
 
-select * from actors where name like 'An%';
+select * from actors 
+where name like 'An%';
 
 ![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/f20d5b54-418e-48fc-9c21-75d1112bb18b)
 
 ### 9. Display details of a customer who does not have an email address provided. 📨
 
-SELECT * FROM `customers` WHERE email is null;
+SELECT * FROM `customers` 
+WHERE email is null;
 
 ![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/9e963111-3b67-417d-9ef8-c035f212d4c5)
 
 ### 10. View all movies priced over $9 and with an ID between 2 and 8 movie_id. 🔍
 
-SELECT * FROM movies WHERE price >= 9 and movie_id > 1 and movie_id < 9;
+SELECT * FROM movies 
+WHERE price >= 9 and movie_id > 1 and movie_id < 9;
 
 ![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/8c16ceba-9645-4480-8daf-bde104a07da9)
 
@@ -198,9 +207,24 @@ SELECT * FROM movies WHERE price >= 9 and movie_id > 1 and movie_id < 9;
 
 ### 11. I made a mistake typing the name of Ania Miler - I entered Muler. Find and use a function that will correct my breakneck mistake 🙈
 
+UPDATE customers 
+SET surname= 'Miler' 
+WHERE surname= 'Muler';
+
+![11](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/871a59e0-559b-4453-9b2e-51c4c57acd7c)
+
+
 ### 12. I charged too much money from a customer who recently bought a movie with id 4. Use the join function to check the customer's name and email address. In order to write him a message about the mistake of a fantastic boss.
 
+
+
 ### 13. Surely you noticed that the seller forgot to enter the e-mail address of Patricia's client. Complete this gap by typing: pati@mail.com
+
+UPDATE customers 
+SET email= 'pati@mail.com'
+WHERE customer_id= 4;
+
+![13](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/0fad9030-da38-4549-a25a-a711450c388b)
 
 ### 14. For each purchase, display the name of the customer who made the rental and the title of the rented movie. (use the inner join function for this, think beforehand which tables will be useful for you to perform the exercise).
 
