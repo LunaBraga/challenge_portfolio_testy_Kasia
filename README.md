@@ -264,7 +264,25 @@ ORDER BY name asc;
 
 ### 18. Inflation has taken over Poland and our movie shop has also suffered from this problem. Increase the price of all movies made after 2000 by $2.50 (Remember that the dollar is the default unit - don't use it anywhere).
 
+Alter table movies
+ADD new_price char(5);
+Update movies 
+set new_price = price + 2.5
+where year_of_production >2000;
+
+![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/8ed01fe3-797f-469e-8056-8cc234584ede)
+
+
 ### 19. Display the name of the actor with id 4 and the title of the movie he starred in
+
+Select actors.name, actors.surname 
+from actors
+INNER JOIN cast ON cast.actor_id=actors.actor_id
+INNER JOIN movies ON cast.movie_id=movies.movie_id
+where actors.actor_id=4;
+
+![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/e6e48a34-6c0d-4183-9512-346fe51f7c8d)
+
 
 ### 20. Where's our HONIA!? Add a new tuple to the customers table, where customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com and pseudonym = Hoa
 
