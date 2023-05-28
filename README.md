@@ -286,6 +286,9 @@ where actors.actor_id=4;
 
 ### 20. Where's our HONIA!? Add a new tuple to the customers table, where customer_id = 7, name = Honia, surname = Stuczka-Kucharska, email = honia@mail.com and pseudonym = Hoa
 
+INSERT INTO customers (customer_id, name, surname, email, pseudonym)
+Values ('7', 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa');
+
 ## Subtask 2
 In quiz 7 answers from 15 were correct. 
 
