@@ -255,7 +255,12 @@ INNER JOIN sale ON movies.movie_id=sale.movie_id;
 
 ### 17. Display a common list of the names of all actors and clients, and sort the result alphabetically. (Use the UNION function for this)
 
+Select name from actors 
+UNION 
+Select name from customers 
+ORDER BY name asc;
 
+![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/5d3a82b1-0a17-4c28-b7ac-23e62b76b156)
 
 ### 18. Inflation has taken over Poland and our movie shop has also suffered from this problem. Increase the price of all movies made after 2000 by $2.50 (Remember that the dollar is the default unit - don't use it anywhere).
 
