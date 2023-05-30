@@ -143,49 +143,56 @@ select * from actors order by surname asc;
 select * from movies 
 where year_of_production = 2019;
 
-![2](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/b4b5be86-686e-487c-aaae-31e80ab2779e)
+![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/7c5ab603-8f20-4de0-b37d-62fd833cb01f)
+
 
 ### 3. View all movies made between 1900 and 1999. 📽
 
 select * from movies 
 where year_of_production between 1900 AND 1999;
 
-![3](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/e9a9b7af-24d3-48b5-9828-594d8a4a68b5)
+![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/4163dc4a-efc8-4f71-8936-21cf1ceac2b3)
+
 
 ### 4. Display ONLY the title and price of movies that cost less than $7 💰
 
 select title, price from movies 
 where price <= 7;
 
-![4](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/d2f221de-10a7-4f2c-a562-6eb5e4ac650a)
+![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/92931773-5f9f-4261-8498-e1f0d9aa278c)
+
 
 ### 5. Use the logical AND operator to display actors with actor_ids between 4-7 (4 and 7 should display). DO NOT USE BETWEEN operator. 👩‍🎤👨‍🎤
 
 SELECT * FROM `actors` 
 WHERE actor_id > 3 and actor_id < 8;
 
-![5](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/7d97e7b5-552e-4897-b2b6-297207a480a9)
+![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/8f616876-2c57-451a-83ec-fd4e81be8c47)
+
 
 ### 6. Display customers with id 2,4,6 use logical condition for this. 🛒
 
 SELECT * FROM customers 
 WHERE customer_id in (2,4,6);
 
-![6](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/e4502831-4f1f-47b0-9577-303a957fcd48)
+![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/19d66305-7372-460c-9867-7134303bec8d)
+
 
 ### 7. Display clients with id 1,3,5 use IN operator for this. 🔢
 
 SELECT * FROM customers 
 WHERE customer_id in (1,3,5);
 
-![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/e775c05b-abf6-4277-97b1-4fa2c6ae85c2)
+![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/8ab04833-7d1b-459d-b7a6-a15c7cf82107)
+
 
 ### 8. Display the details of all persons in the 'actors' table whose name starts with 'An'. ✨
 
 select * from actors 
 where name like 'An%';
 
-![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/f20d5b54-418e-48fc-9c21-75d1112bb18b)
+![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/d3b3905e-77ca-483b-b1e4-c0a79e7681a2)
+
 
 ### 9. Display details of a customer who does not have an email address provided. 📨
 
