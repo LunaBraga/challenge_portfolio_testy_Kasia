@@ -199,6 +199,9 @@ where name like 'An%';
 SELECT * FROM `customers` 
 WHERE email is null;
 
+![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/e0b75cfd-6387-4c81-a759-dc61f30084ae)
+
+
 ![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/9e963111-3b67-417d-9ef8-c035f212d4c5)
 
 ### 10. View all movies priced over $9 and with an ID between 2 and 8 movie_id. 🔍
