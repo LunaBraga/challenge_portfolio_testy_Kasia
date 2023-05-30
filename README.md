@@ -221,7 +221,7 @@ UPDATE customers
 SET surname= 'Miler' 
 WHERE surname= 'Muler';
 
-![11](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/871a59e0-559b-4453-9b2e-51c4c57acd7c)
+![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/9abee2c0-b7c0-4df1-a602-1e49ffb820cb)
 
 
 ### 12. I charged too much money from a customer who recently bought a movie with id 4. Use the join function to check the customer's name and email address. In order to write him a message about the mistake of a fantastic boss.
