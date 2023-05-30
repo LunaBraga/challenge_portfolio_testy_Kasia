@@ -240,7 +240,8 @@ UPDATE customers
 SET email= 'pati@mail.com'
 WHERE customer_id= 4;
 
-![13](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/0fad9030-da38-4549-a25a-a711450c388b)
+![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/6dedb028-65cb-4d4f-80ca-be2e915d471f)
+
 
 ### 14. For each purchase, display the name of the customer who made the rental and the title of the rented movie. (use the inner join function for this, think beforehand which tables will be useful for you to perform the exercise).
 
