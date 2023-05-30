@@ -134,7 +134,9 @@ List of operators/queries I learned.
 
 select * from actors order by surname asc;
 
-![1](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/9ec07537-faef-4597-83e1-9f4ef7bb3d74)
+
+![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/b9d3622e-fff8-4ecc-b740-efc8c70dd784)
+
 
 ### 2. View a video that was made in 2019. 🎬
 
