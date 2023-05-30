@@ -231,7 +231,7 @@ FROM customers
 INNER JOIN sale ON customers.customer_id=sale.customer_id
 where movie_id =4;
 
-![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/2fb93817-5551-4c7c-8e24-41687720fe6f)
+![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/2b12ee85-d68b-40da-9525-547da6327e30)
 
 
 ### 13. Surely you noticed that the seller forgot to enter the e-mail address of Patricia's client. Complete this gap by typing: pati@mail.com
