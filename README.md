@@ -124,7 +124,181 @@ We write a test case to check whether the created software meets the expectation
 
 ## Subtask 1
 
-List of operators/queries I learned.
+SQL is a standard language for storing, manipulating and retrieving data in databases.
+
+### List of operators/queries I learned.
+
+
+#### Table contents
+SELECT * FROM Customers;
+
+SELECT column1, column2, ...
+FROM table_name;
+
+There is a diagram before the dot.
+
+
+#### Aliases
+SELECT column_name AS alias_name
+FROM table_name;
+
+#### Distinct
+Select all the different values from the Country column in the Customers table.
+
+SELECT DISTINCT column1, column2, ...
+FROM table_name;
+
+#### Syntax prompting
+
+Button - TAB to select.
+The right order of filling in the lines - speeds up the work.
+
+SSMS Keyboard Shortcuts Listed by Shortcut
+
+Shortcut                      Function
+Ctrl+Shift+Q                  Tools - Design Query in Editor
+Ctrl+Shift+R                  Intellisense - Refresh Local Cache
+Ctrl+Shift+S                  Query - Save All
+Ctrl+Shift+U                  Editing - Make Uppercase
+
+#### New table
+
+CREATE TABLE table_name (
+	column1 datatype,
+	column2 datatype,
+	column3 datatype,
+   ....
+);
+
+
+#### Data sorting
+
+ORDER BY 
+
+SELECT column1, column2, ...
+FROM table_name
+ORDER BY column1, column2, ... ASC|DESC;
+
+SELECT * FROM Production.Product 
+ORDER BY Name DESC 
+
+DESC - sortuj malejąco
+ASC - sortuj rosnąco 
+
+SELECT * FROM Production.Product 
+ORDER BY Color, Name
+
+Color sorting.
+
+#### Data filtering
+
+SELECT column1, column2, ...
+FROM table_name
+WHERE condition;
+
+Between
+SELECT column_name(s)
+FROM table_name
+WHERE column_name BETWEEN value1 AND value2;
+
+=
+SELECT * FROM Customers
+WHERE Country='Mexico';
+
+
+Something other than red
+<> ‘Red’ lub != ‘Red’
+
+LIKE 
+
+SELECT column1, column2, ...
+FROM table_name
+WHERE columnN LIKE pattern;
+
+SELECT * FROM Customers
+WHERE CustomerName LIKE 'a%';
+
+_’- oznacza dowolny ale jeden znak. 
+
+AND
+
+SELECT column1, column2, ...
+FROM table_name
+WHERE condition1 AND condition2 AND condition3 ...;
+
+OR
+
+SELECT column1, column2, ...
+FROM table_name
+WHERE condition1 OR condition2 OR condition3 …
+
+NOT
+
+SELECT column1, column2, ...
+FROM table_name
+WHERE NOT condition;
+
+NULL
+SELECT column_names
+FROM table_name
+WHERE column_name IS NULL;
+
+
+#### The logical order of execution of the query
+
+In ORDER BY we use column aliases.
+
+
+#### Functions
+
+GET DATE 
+SELECT GETDATE();
+SELECT GETDATE()AS CurrentDateTime 
+
+
+UPPER
+SELECT UPPER('SQL Tutorial is FUN!');
+SELECT UPPER('SQL Tutorial is FUN!') AS CurrentDateTime;
+
+LOWER
+SELECT LOWER('SQL Tutorial is FUN!');
+
+DATEDIFF
+Return the difference between two date values, in years, month, days, hours:
+SELECT DATEDIFF(year, '2017/08/25', '2011/08/25') AS DateDiff;
+
+COUNT
+SELECT COUNT(ProductID) AS NumberOfProducts FROM Products;
+
+SUM
+SELECT SUM(Quantity) AS TotalItemsOrdered FROM OrderDetails;
+
+MIN
+SELECT MIN(Price) AS SmallestPrice FROM Products
+WHERE Color = ‘Black’;
+
+#### Data grouping
+
+GROUP BY 
+SELECT column_name(s)
+FROM table_name
+WHERE condition
+GROUP BY column_name(s)
+ORDER BY column_name(s);
+
+You cannot add other groups below if they are not in the SELECT.
+We can add optionally to GROUP BY and then for these values ​​will be shown.
+
+#### Joining a table
+
+Table aliases
+
+SELECT o.OrderID, o.OrderDate, c.CustomerName
+FROM Customers AS c, Orders AS o
+WHERE c.CustomerName='Around the Horn' AND c.CustomerID=o.CustomerID;
+
+SELECT TOP 10* - shows only the top 10.
+Value less than or equal to <=
 
 
 
