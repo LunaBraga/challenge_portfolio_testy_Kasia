@@ -429,6 +429,14 @@ INNER JOIN movies ON movies.movie_id=sale.movie_id;
 
 ### 15. In order to anonymise data, you want to create pseudonyms for your clients. - Add a column named 'pseudonym' to the customer table, - Fill in the column so that the nickname is made up of the first two letters of the first name and the last letter of the last name. E.g. Natalie Pilling → Nag
 
+ALTER TABLE customers
+ADD pseudonym char(3);
+
+UPDATE customers SET pseudonym = concat(LEFT(name,2),RIGHT(surname,1));
+
+![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/3288b78f-83de-4670-8800-06ff0fb763dc)
+
+
 ### 16. Display the titles of the movies that have been purchased, display the table in such a way that the titles do not repeat.
 
 SELECT DISTINCT movies.title 
