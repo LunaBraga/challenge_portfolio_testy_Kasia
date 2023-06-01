@@ -482,7 +482,7 @@ where actors.actor_id=4;
 INSERT INTO customers (customer_id, name, surname, email, pseudonym)
 Values ('7', 'Honia', 'Stuczka-Kucharska', 'honia@mail.com', 'Hoa');
 
-![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/d565402c-04c1-47b3-8c02-9f936ac56dd3)
+![image](https://github.com/LunaBraga/challenge_portfolio_testy_Kasia/assets/128088096/a4e20552-fec0-47f9-bb9b-f1de7b277fff)
 
 
 ## Subtask 2
