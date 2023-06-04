@@ -111,7 +111,7 @@ We write a test case to check whether the created software meets the expectation
 ## Subtask 3 💻🕵️‍♀️ 
 
 
-1. This mobile application to buying different kinds of items rom people in Poland. 
+1. This mobile application to buying different kinds of items from people in Poland. 
 2. The final users of the application are people listing items for sale in the application and people buying items.
 3. The OLX application looks as if it was not designed specifically for the mobile version. 💻 In my opinion, it was reworked from the desktop project. Items in an app sometimes don't fit in containers. 🏮 The header does not have an upper bar with visible OLX colors. 🚩After entering the application, one element thanks to which I know that it is an application of this store is the logo in OLX in categories. The categories are not added alphabetically and it is difficult to know what the key to adding them in the application is. 📁 The application is not responsive and has not been adapted to all mobile devices. The application is about shopping and a Help button clearly visible on the page would be useful. Currently, it is deeper hidden in the Account and you have to scroll to find it. 🐕‍🦺 There is also no contact form or phone number for the helpdesk.📱 The application has many elements, but some of them are hard to find at first glance. A search engine for application elements would be helpful. There is only element search engine on the website. 🔍 The app also has an eco mode to save battery. 🔋 The application does not have two-factor verification 🔑 and scalable text. To sum up, the application should be designed for mobile devices. Currently, unfortunately, it is not user friendly.
 
